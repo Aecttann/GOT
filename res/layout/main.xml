@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gotquest" >
+
+<ImageView
+    android:id="@+id/imageView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scaleType="centerCrop"
+    android:src="@drawable/throne2" />
+
+<Button
+    android:id="@+id/button1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_marginTop="140dp"
+    android:background="@android:color/transparent"
+    android:text="@string/new_game"
+    android:textAllCaps="false"
+    android:textColor="#F0FFFF"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/button2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/button1"
+    android:layout_marginTop="1dp"
+    android:background="@android:color/transparent"
+    android:text="Загрузить игру"
+    android:textColor="#F0FFFF"
+    android:textAllCaps="false"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/button3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/button2"
+    android:background="@android:color/transparent"
+    android:text="Настройки"
+    android:textColor="#F0FFFF"
+    android:textAllCaps="false"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/button4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/button3"
+    android:background="@android:color/transparent"
+    android:text="О программе"
+    android:textAllCaps="false"
+    android:textColor="#F0FFFF"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/button5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/button4"
+    android:background="@android:color/transparent"
+    android:text="@string/exit"
+    android:textAllCaps="false"
+    android:textColor="#F0FFFF"
+    android:textSize="20sp" />
+
+</RelativeLayout>

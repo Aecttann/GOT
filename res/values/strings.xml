@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GOTQuest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">Новая игра</string>
+    <string name="exit">Выход</string>
+    <string name="start_speech">Приветствую, храбрый воин! Готов ли ты сразиться за Железный трон? Если ты уверен в своих силах, впиши сюда своё имя, дабы оно осталось в летописях:</string>
+    <string name="houses">Выбери дом, на стороне которого ты желаешь сражаться!</string>
+	<string name="dialog_1">Dialog 1</string>
+	<string name="dialog_2">Dialog 2</string>
+	<string name="message_text">Text of your message</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="maybe">Maybe</string>
+	<string name="starks">     Старки — один из великих домов Вестероса, правители Севера. На гербе Старков серый лютоволк, бегущий по снежно-белому полю. Девиз Старков — «Зима близко». Их родовой замок — Винтерфелл. Старки — очень древний род, считается, что они прямые потомки Брандона Строителя, жившего восемь тысяч лет назад. Как и многие другие дома Севера, они сохранили веру в Старых Богов. До объединения Вестероса Старки правили северными землями как Короли Севера. Преклонив колена перед Эйгоном Завоевателем, Старки стали лордами Винтерфелла и Хранителями Севера, признающими над собой власть Таргариенов.</string>
+    <string name="choose_stark">Выбрать</string>
+</resources>
